@@ -11,4 +11,5 @@
 |------|------|------|------|
 |19-2-3|01|6-2多项式求值|基础编程题目集|
 |19-2-8|02|1002.写出这个数|PAT (Basic Level) Practice （中文）|
-|19-2-8|02|1003.我要通过！|PAT (Basic Level) Practice （中文）|
+||03|1003.我要通过！|PAT (Basic Level) Practice （中文）|
+||04|1005.继续(3n+1)猜想|PAT (Basic Level) Practice （中文）|
