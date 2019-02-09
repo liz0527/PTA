@@ -15,3 +15,4 @@
 ||04|1005.继续(3n+1)猜想|PAT (Basic Level) Practice （中文）|
 |19-2-9|05|1007.素数对猜想|PAT (Basic Level) Practice （中文）|
 ||06|1008.数组元素循环右移问题|PAT (Basic Level) Practice （中文）|
+||07|1009.说反话|PAT (Basic Level) Practice （中文）|
