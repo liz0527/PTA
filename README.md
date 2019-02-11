@@ -18,3 +18,7 @@
 ||07|1009.说反话|PAT (Basic Level) Practice （中文）|
 |19-2-10|08|1014.福尔摩斯的约会|PAT (Basic Level) Practice （中文）|
 ||09|1016.部分A+B|PAT (Basic Level) Practice （中文）|
+|19-2-11|10|1015.德才论|PAT (Basic Level) Practice （中文）|
+||11|1017.A除以B|PAT (Basic Level) Practice （中文）|
+||12|1018.锤子剪刀布|PAT (Basic Level) Practice （中文）|
+||13|1019.数字黑洞|PAT (Basic Level) Practice （中文）|
