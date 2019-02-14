@@ -23,3 +23,4 @@
 ||12|1018.锤子剪刀布|模拟|PAT (Basic Level) Practice （中文）|
 ||13|1019.数字黑洞|数学|PAT (Basic Level) Practice （中文）|
 |19-2-12|14|1022.D进制的A+B|进制转换|PAT (Basic Level) Practice （中文）|
+|19-2-14|15|1040.有几个PAT|逻辑题|PAT (Basic Level) Practice （中文）|
