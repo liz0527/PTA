@@ -25,3 +25,4 @@
 |19-2-12|14|1022.D进制的A+B|进制转换|PAT (Basic Level) Practice （中文）|
 |19-2-14|15|1040.有几个PAT|逻辑题|PAT (Basic Level) Practice （中文）|
 |19-2-16|16|1024.科学计数法|字符串处理|PAT (Basic Level) Practice （中文）|
+|19-2-17|17|1025.反转链表|链表|PAT (Basic Level) Practice （中文）|
