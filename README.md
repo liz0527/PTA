@@ -26,3 +26,5 @@
 |19-2-14|15|1040.有几个PAT|逻辑题|PAT (Basic Level) Practice （中文）|
 |19-2-16|16|1024.科学计数法|字符串处理|PAT (Basic Level) Practice （中文）|
 |19-2-17|17|1025.反转链表|链表|PAT (Basic Level) Practice （中文）|
+|19-2-18|18|1034.有理数运算|分数的四则运算|PAT (Basic Level) Practice （中文）|
+||19|1045.快速排序|快速排序|PAT (Basic Level) Practice （中文）|
