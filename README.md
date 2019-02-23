@@ -30,3 +30,4 @@
 ||19|1045.快速排序|快速排序|PAT (Basic Level) Practice （中文）|
 |19-2-22|20|1035.插入与归并|双指针&排序|PAT (Basic Level) Practice （中文）|
 ||21|1049.数列的片段和|数学|PAT (Basic Level) Practice （中文）|
+|19-2-23|22|1070.结绳|排序&贪心|PAT (Basic Level) Practice （中文）|
