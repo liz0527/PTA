@@ -2,8 +2,7 @@
 
 #### 前言
 - PTA刷题程序存放仓库
-- 同样地，印象笔记也记录了嘻嘻
-- 并不是全部都记录了哦，只是记了觉得有意义的。
+- 有事没事推一哈
 
 #### 更新记录
 
@@ -31,3 +30,6 @@
 |19-2-22|20|1035.插入与归并|双指针&排序|PAT (Basic Level) Practice （中文）|
 ||21|1049.数列的片段和|数学|PAT (Basic Level) Practice （中文）|
 |19-2-23|22|1070.结绳|排序&贪心|PAT (Basic Level) Practice （中文）|
+||23|1091.N-自守数|字符串|PAT (Basic Level) Practice （中文）|
+||24|1092.最好吃的月饼|结构体|PAT (Basic Level) Practice （中文）|
+||25|1093.字符串A+B|字符串处理|PAT (Basic Level) Practice （中文）|
