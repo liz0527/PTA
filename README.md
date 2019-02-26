@@ -33,3 +33,4 @@
 ||23|1091.N-自守数|字符串|PAT (Basic Level) Practice （中文）|
 ||24|1092.最好吃的月饼|结构体|PAT (Basic Level) Practice （中文）|
 ||25|1093.字符串A+B|字符串处理|PAT (Basic Level) Practice （中文）|
+|19-2-26|26|1043.火星数字||PAT (Basic Level) Practice （中文）|
