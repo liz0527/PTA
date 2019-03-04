@@ -35,4 +35,7 @@
 ||25|1093.字符串A+B|字符串处理|PAT (Basic Level) Practice （中文）|
 |19-2-26|26|1043.火星数字|进制转换|PAT (Basic Level) Practice （中文）|
 |19-2-28|27|1050.螺旋矩阵|模拟|PAT (Basic Level) Practice （中文）|
-|19-3-3|28|1077.互评成绩计算||PAT (Basic Level) Practice （中文）|
+|19-3-3|28|1077.互评成绩计算|类型转换|PAT (Basic Level) Practice （中文）|
+|19-3-4|29|1069.微博转发抽奖|map映射|PAT (Basic Level) Practice （中文）|
+||30|1059.C语言竞赛|逻辑|PAT (Basic Level) Practice （中文）|
+||31|1068.万绿丛中一点红|逻辑|PAT (Basic Level) Practice （中文）|
