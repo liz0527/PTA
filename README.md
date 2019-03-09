@@ -39,3 +39,5 @@
 |19-3-4|29|1069.微博转发抽奖|map映射|PAT (Basic Level) Practice （中文）|
 ||30|1059.C语言竞赛|逻辑|PAT (Basic Level) Practice （中文）|
 ||31|1068.万绿丛中一点红|逻辑|PAT (Basic Level) Practice （中文）|
+|19-3-9|32|1088.三人行|逻辑|PAT (Basic Level) Practice （中文）|
+||33|1089.狼人杀-简单版|逻辑|PAT (Basic Level) Practice （中文）|
