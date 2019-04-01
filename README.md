@@ -42,3 +42,4 @@
 |19-3-9|32|1088.三人行|逻辑|PAT (Basic Level) Practice （中文）|
 ||33|1089.狼人杀-简单版|逻辑|PAT (Basic Level) Practice （中文）|
 |19-3-10|34|1094.谷歌的招聘|字符串处理|PAT (Basic Level) Practice （中文）|
+|19-4-1|35|1060.爱丁顿数|逻辑|PAT (Basic Level) Practice （中文）|
