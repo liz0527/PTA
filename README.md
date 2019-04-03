@@ -45,3 +45,4 @@
 |19-4-1|35|1060.爱丁顿数|逻辑|PAT (Basic Level) Practice （中文）|
 |19-4-2|36|1051.复数乘法|模拟|PAT (Basic Level) Practice （中文）|
 |19-4-3|37|1052.卖个萌|字符串处理|PAT (Basic Level) Practice （中文）|
+||38|1053.住房空置率|模拟|PAT (Basic Level) Practice （中文）|
