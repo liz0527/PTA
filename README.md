@@ -47,3 +47,4 @@
 |19-4-3|37|1052.卖个萌|字符串处理|PAT (Basic Level) Practice （中文）|
 ||38|1053.住房空置率|模拟|PAT (Basic Level) Practice （中文）|
 |19-7-12|39|1042. Shuffling Machine|简单模拟|PAT (Advanced Level) Practice|
+||40|1046. Shortest Distance|简单模拟|PAT (Advanced Level) Practice|
