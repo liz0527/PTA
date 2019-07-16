@@ -54,3 +54,4 @@
 |19-7-14|44|1065 A+B and C (64bit)|排序|PAT (Advanced Level) Practice||
 |19-7-16|45|1011 World Cup Betting|查找|PAT (Advanced Level) Practice||
 ||46|1006 Sign In and Sign Out|查找|PAT (Advanced Level) Practice||
+||47|1036 Boys vs Girls|查找|PAT (Advanced Level) Practice||
