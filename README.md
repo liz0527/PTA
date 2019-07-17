@@ -56,5 +56,6 @@
 ||46|1006 Sign In and Sign Out|查找|PAT (Advanced Level) Practice||
 ||47|1036 Boys vs Girls|查找|PAT (Advanced Level) Practice||
 |19-7-17|48|1031 Hello World for U|图形输出|PAT (Advanced Level) Practice||
-|19-7-17|49|1019 General Palindromic Number|进制转换|PAT (Advanced Level) Practice||
-|19-7-17|50|1027 Colors in Mars|进制转换|PAT (Advanced Level) Practice||
+||49|1019 General Palindromic Number|进制转换|PAT (Advanced Level) Practice||
+||50|1027 Colors in Mars|进制转换|PAT (Advanced Level) Practice||
+||51|1058 A+B in Hogwarts|进制转换|PAT (Advanced Level) Practice||
