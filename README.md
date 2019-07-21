@@ -61,3 +61,4 @@
 ||51|1058 A+B in Hogwarts|进制转换|PAT (Advanced Level) Practice||
 |19-7-18|52|1061 Dating|字符串处理|PAT (Advanced Level) Practice||
 |19-7-21|53|1073 Scientific Notation|字符串处理|PAT (Advanced Level) Practice|✿|
+||54|1001 A+B Format|字符串处理|PAT (Advanced Level) Practice||
