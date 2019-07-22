@@ -62,3 +62,5 @@
 |19-7-18|52|1061 Dating|字符串处理|PAT (Advanced Level) Practice||
 |19-7-21|53|1073 Scientific Notation|字符串处理|PAT (Advanced Level) Practice|✿|
 ||54|1001 A+B Format|字符串处理|PAT (Advanced Level) Practice||
+|19-7-22|55|1005 Spell It Right|字符串处理|PAT (Advanced Level) Practice||
+||56|1035 Password|字符串处理|PAT (Advanced Level) Practice||
