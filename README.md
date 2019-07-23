@@ -65,3 +65,4 @@
 |19-7-22|55|1005 Spell It Right|字符串处理|PAT (Advanced Level) Practice||
 ||56|1035 Password|字符串处理|PAT (Advanced Level) Practice||
 ||57|1077 Kuchiguse|字符串处理|PAT (Advanced Level) Practice|✿|
+|19-7-23|58|1082 Read Number in Chinese|字符串处理|PAT (Advanced Level) Practice|✿|
