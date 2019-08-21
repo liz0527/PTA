@@ -69,3 +69,4 @@
 |19-8-1|59|1062 Talent and Virtue|排序|PAT (Advanced Level) Practice|未完成！|
 |19-8-21|60|1084 Broken Keyboard|散列|PAT (Advanced Level) Practice||
 ||61|1041 Be Unique|散列|PAT (Advanced Level) Practice||
+||62|1092 To Buy or Not to Buy|散列|PAT (Advanced Level) Practice||
