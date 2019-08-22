@@ -51,7 +51,7 @@
 |19-7-13|41|1065 A+B and C (64bit)|简单模拟|PAT (Advanced Level) Practice|✿|
 ||42|1002 A+B for Polynomials|简单模拟|PAT (Advanced Level) Practice||
 ||43|1009 Product of Polynomials|简单模拟|PAT (Advanced Level) Practice||
-|19-7-14|44|1065 A+B and C (64bit)|排序|PAT (Advanced Level) Practice||
+|19-7-14|44|1025 PAT Ranking|排序|PAT (Advanced Level) Practice||
 |19-7-16|45|1011 World Cup Betting|查找|PAT (Advanced Level) Practice||
 ||46|1006 Sign In and Sign Out|查找|PAT (Advanced Level) Practice||
 ||47|1036 Boys vs Girls|查找|PAT (Advanced Level) Practice||
