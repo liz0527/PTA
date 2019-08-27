@@ -70,3 +70,5 @@
 |19-8-21|60|1084 Broken Keyboard|散列|PAT (Advanced Level) Practice||
 ||61|1041 Be Unique|散列|PAT (Advanced Level) Practice||
 ||62|1092 To Buy or Not to Buy|散列|PAT (Advanced Level) Practice||
+|19-8-27|63|1093 Count PAT's|逻辑|PAT (Advanced Level) Practice||
+||64|1101 Quick Sort|逻辑|PAT (Advanced Level) Practice|✿|
