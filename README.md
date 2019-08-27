@@ -73,3 +73,4 @@
 |19-8-27|63|1093 Count PAT's|逻辑|PAT (Advanced Level) Practice||
 ||64|1101 Quick Sort|逻辑|PAT (Advanced Level) Practice|✿|
 ||65|1050 String Subtraction|散列|PAT (Advanced Level) Practice|✿|
+||66|1048 Find Coins|散列|PAT (Advanced Level) Practice|✿|
