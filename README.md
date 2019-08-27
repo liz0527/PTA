@@ -74,3 +74,4 @@
 ||64|1101 Quick Sort|逻辑|PAT (Advanced Level) Practice|✿|
 ||65|1050 String Subtraction|散列|PAT (Advanced Level) Practice|✿|
 ||66|1048 Find Coins|散列|PAT (Advanced Level) Practice|✿|
+||67|1070 Mooncake|贪心|PAT (Advanced Level) Practice||
