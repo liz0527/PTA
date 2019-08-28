@@ -75,3 +75,5 @@
 ||65|1050 String Subtraction|散列|PAT (Advanced Level) Practice|✿|
 ||66|1048 Find Coins|散列|PAT (Advanced Level) Practice|✿|
 ||67|1070 Mooncake|贪心|PAT (Advanced Level) Practice||
+|19-8-28|68|1069 The Black Hole of Numbers|数学|PAT (Advanced Level) Practice|✿|
+||69|1059 Prime Factors|数学|PAT (Advanced Level) Practice|✿|
