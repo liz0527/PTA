@@ -77,3 +77,4 @@
 ||67|1070 Mooncake|贪心|PAT (Advanced Level) Practice||
 |19-8-28|68|1069 The Black Hole of Numbers|数学|PAT (Advanced Level) Practice|✿|
 ||69|1059 Prime Factors|数学|PAT (Advanced Level) Practice|✿|
+|19-8-29|70|1067 Sort with Swap(0, i)|贪心|PAT (Advanced Level) Practice|✿|
