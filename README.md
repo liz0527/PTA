@@ -80,3 +80,4 @@
 |19-8-29|70|1067 Sort with Swap(0, i)|贪心|PAT (Advanced Level) Practice|✿|
 ||71|1085 Perfect Sequence|二分|PAT (Advanced Level) Practice||
 ||72|1060 Are They Equal|字符串|PAT (Advanced Level) Practice|✿|
+||73|1029 Median|双指针|PAT (Advanced Level) Practice|✿|
