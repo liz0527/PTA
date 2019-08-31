@@ -82,3 +82,5 @@
 ||72|1060 Are They Equal|字符串|PAT (Advanced Level) Practice|✿|
 ||73|1029 Median|双指针|PAT (Advanced Level) Practice|✿|
 ||74|1008 Elevator|简单数学|PAT (Advanced Level) Practice||
+|19-8-31|70|1032 Sharing|链表|PAT (Advanced Level) Practice|✿|
+||71|1052 Linked List Sorting|链表|PAT (Advanced Level) Practice||
