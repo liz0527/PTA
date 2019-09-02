@@ -84,3 +84,5 @@
 ||74|1008 Elevator|简单数学|PAT (Advanced Level) Practice||
 |19-8-31|70|1032 Sharing|链表|PAT (Advanced Level) Practice|✿|
 ||71|1052 Linked List Sorting|链表|PAT (Advanced Level) Practice||
+|19-9-1|72|1074 Reversing Linked List|链表|PAT (Advanced Level) Practice||
+|19-9-2|73|1097 Deduplication on a Linked List|链表|PAT (Advanced Level) Practice||
