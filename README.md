@@ -88,3 +88,4 @@
 |19-9-2|73|1097 Deduplication on a Linked List|链表|PAT (Advanced Level) Practice||
 |19-9-4|74|1051 Pop Sequence|栈|PAT (Advanced Level) Practice||
 ||75|1056 Mice and Rice|队列|PAT (Advanced Level) Practice||
+||76|1020 Tree Traversals|树|PAT (Advanced Level) Practice||
