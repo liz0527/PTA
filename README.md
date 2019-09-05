@@ -89,3 +89,4 @@
 |19-9-4|74|1051 Pop Sequence|栈|PAT (Advanced Level) Practice||
 ||75|1056 Mice and Rice|队列|PAT (Advanced Level) Practice||
 ||76|1020 Tree Traversals|树|PAT (Advanced Level) Practice||
+|19-9-5|77|1053 Path of Equal Weight|树|PAT (Advanced Level) Practice||
