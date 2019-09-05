@@ -90,3 +90,4 @@
 ||75|1056 Mice and Rice|队列|PAT (Advanced Level) Practice||
 ||76|1020 Tree Traversals|树|PAT (Advanced Level) Practice||
 |19-9-5|77|1053 Path of Equal Weight|树|PAT (Advanced Level) Practice||
+||78|1043 Is It a Binary Search Tree|树|PAT (Advanced Level) Practice||
