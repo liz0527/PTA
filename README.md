@@ -93,3 +93,4 @@
 ||78|1043 Is It a Binary Search Tree|树|PAT (Advanced Level) Practice||
 |19-9-6|79|1003 Emergency|Dijkstra|PAT (Advanced Level) Practice||
 ||80|1030 Travel Plan|Dijkstra|PAT (Advanced Level) Practice||
+|19-9-7|81|1057 Stack|分块思想|PAT (Advanced Level) Practice||
