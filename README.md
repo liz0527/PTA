@@ -98,3 +98,4 @@
 ||83|1129 Recommendation System|排序|PAT (Advanced Level) Practice|✿|
 ||84|1130 Infix Expression|二叉树|PAT (Advanced Level) Practice||
 ||85|1132 Cut Integer|数学|PAT (Advanced Level) Practice||
+||86|1133 Splitting A Linked List|链表|PAT (Advanced Level) Practice||
