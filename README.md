@@ -96,3 +96,4 @@
 |19-9-7|81|1057 Stack|分块思想|PAT (Advanced Level) Practice||
 ||82|1128 N Queens Puzzle|八皇后|PAT (Advanced Level) Practice||
 ||83|1129 Recommendation System|排序|PAT (Advanced Level) Practice||
+||84|1130 Infix Expression|二叉树|PAT (Advanced Level) Practice|✿|
