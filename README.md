@@ -94,3 +94,5 @@
 |19-9-6|79|1003 Emergency|Dijkstra|PAT (Advanced Level) Practice||
 ||80|1030 Travel Plan|Dijkstra|PAT (Advanced Level) Practice||
 |19-9-7|81|1057 Stack|分块思想|PAT (Advanced Level) Practice||
+||82|1128 N Queens Puzzle|八皇后|PAT (Advanced Level) Practice||
+||83|1129 Recommendation System|排序|PAT (Advanced Level) Practice||
