@@ -99,3 +99,4 @@
 ||84|1130 Infix Expression|二叉树|PAT (Advanced Level) Practice||
 ||85|1132 Cut Integer|数学|PAT (Advanced Level) Practice||
 ||86|1133 Splitting A Linked List|链表|PAT (Advanced Level) Practice||
+|19-11-30|87|1086 Tree Traversals Again|二叉树|PAT (Advanced Level) Practice||
