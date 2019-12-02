@@ -102,3 +102,5 @@
 |19-11-30|87|1086 Tree Traversals Again|二叉树|PAT (Advanced Level) Practice||
 |19-12-1|88|1102 Invert a Binary Tree|二叉树|PAT (Advanced Level) Practice||
 ||88|1079 Total Sales of Supply Chain|树|PAT (Advanced Level) Practice||
+|19-12-2|89|1090 Highest Price in Supply Chain|树|PAT (Advanced Level) Practice||
+||90|1004 Counting Leaves|树|PAT (Advanced Level) Practice||
