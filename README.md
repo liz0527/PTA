@@ -105,3 +105,5 @@
 |19-12-2|89|1090 Highest Price in Supply Chain|树|PAT (Advanced Level) Practice||
 ||90|1004 Counting Leaves|树|PAT (Advanced Level) Practice||
 ||91|1094 The Largest Generation|树|PAT (Advanced Level) Practice||
+|19-12-3|92|1013 Battle Over Cities|图|PAT (Advanced Level) Practice|✿|
+||93|1021 Deepest Root|图|PAT (Advanced Level) Practice||
